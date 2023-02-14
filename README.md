@@ -1,4 +1,4 @@
-# Ekaterina_Zelenkina: To do приложение
+# To do приложение
 ___
 ## hw1: HTML
 - реализована вертка страницы по [дизайну](https://github.com/ok-technopolis-autumn-2022/todo-app-design) figma 
