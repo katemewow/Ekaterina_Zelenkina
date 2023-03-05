@@ -1,11 +1,11 @@
 # To do приложение
 ___
 ## hw1: HTML
-- реализована вертка страницы по [дизайну](https://github.com/ok-technopolis-autumn-2022/todo-app-design) figma 
-- настроено accessibility
+- Реализована вертка страницы по [дизайну](https://github.com/ok-technopolis-autumn-2022/todo-app-design) figma 
+- Настроено accessibility
 ___
 ## hw2: CSS
-- реализована стилизация приложения в соответствии с макетом
+- Реализована стилизация приложения в соответствии с макетом
 ___
 ## hw3: Препроцессоры CSS
 - Был установлен менеджер пакетов `npm` и выполнена инициализация `npm init`
